@@ -1,1 +1,0 @@
-# GetYourEggsHere.github.io
