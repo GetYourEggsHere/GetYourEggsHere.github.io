@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+<title>chickenscratch</title>
+<link>chickenscrat.ch</link>
+<description></description>
+<lastBuildDate>20160523</lastBuildDate>
+
+<item>
+	<pubDate>20160523</pubDate>
+	<title>Kanashii Hanashi ni Hana ga Saku [oneshot]</title>
+	<link>chickenscrat.ch</link>
+	<description></description>
+</item>
+<item>
+	<pubDate>20160520</pubDate>
+	<title>Hello world.</title>
+	<link>chickenscrat.ch</link>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<textInput>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</textInput>
+</item>
+<item>
+	<pubDate>20160520</pubDate>
+	<title>Hello world.</title>
+	<link>chickenscrat.ch</link>
+	<description></description>
+	<textInput>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</textInput>
+</item>
+
+</channel>
