@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<atom:link href="http://chickenscrat.ch/atom" rel="self" type="application/rss+xml" />
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 <title>chickenscratch</title>
 <id>http://chickenscrat.ch/atom/</id>
-<link href="http://chickenscrat.ch" />
+<atom:link href="http://chickenscrat.ch" rel="self" />
 <author><name>chickenscratch</name></author>
 <icon>/fav.ico</icon>
 
