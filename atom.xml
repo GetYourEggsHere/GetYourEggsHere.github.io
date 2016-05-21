@@ -3,7 +3,7 @@
 
 <title>chickenscratch</title>
 <id>http://chickenscrat.ch/atom/</id>
-<atom:link href="http://chickenscrat.ch" rel="self" />
+<link href="http://chickenscrat.ch" rel="self" />
 <author><name>chickenscratch</name></author>
 <icon>/fav.ico</icon>
 
