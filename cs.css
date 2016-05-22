@@ -30,6 +30,7 @@ a:hover {color:#E38089; cursor:pointer;}
 /* LOG */
 #log {margin-bottom:20px; border-top:1px dashed #7A7171; clear:left;}
 .entry {padding:3px 0px; border-bottom:1px dashed #7A7171; overflow:auto;}
+.entry>a {position:relative; top:-20px;}
 .date {font-family:'Courier New', monospace; font-size: 12px; color:#7C7373;}
 img.egg {vertical-align:bottom; margin: 0px 8px;}
 .ttl {color:#8DB041;}
