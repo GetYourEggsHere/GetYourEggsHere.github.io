@@ -8,42 +8,21 @@
 <author><name>chickenscratch</name></author>
 <icon>/fav.ico</icon>
 
-<updated>2016-05-21T12:25:00Z</updated>
+<updated>2016-05-22T00:25:00Z</updated>
 
 <entry>
-	<updated>2016-05-21T12:25:00Z</updated>
-	<id>http://chickenscrat.ch/#5</id>
-	<link href="http://chickenscrat.ch/#5"/>
-	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
-	<content> </content>
-</entry>
-<entry>
-	<updated>2016-05-21T11:24:00Z</updated>
-	<id>http://chickenscrat.ch/#4</id>
-	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
-	<content> </content>
-	<link href="http://chickenscrat.ch"/>
-</entry>
-<entry>
-	<updated>2016-05-21T11:23:00Z</updated>
+	<updated>2016-05-20T12:30:00Z</updated>
 	<id>http://chickenscrat.ch/#3</id>
-	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
+	<link href="http://chickenscrat.ch/#3"/>
+	<title>Tokyo Ghoul extra: April Fools 2016</title>
 	<content> </content>
-	<link href="http://chickenscrat.ch"/>
 </entry>
 <entry>
-	<updated>2016-05-21T11:22:00Z</updated>
+	<updated>2016-05-20T12:25:00Z</updated>
 	<id>http://chickenscrat.ch/#2</id>
+	<link href="http://chickenscrat.ch/#2"/>
 	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
 	<content> </content>
-	<link href="http://chickenscrat.ch"/>
-</entry>
-<entry>
-	<updated>2016-05-21T11:21:00Z</updated>
-	<id>http://chickenscrat.ch/#1</id>
-	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
-	<content>Lorem ipsum?</content>
-	<link href="http://chickenscrat.ch"/>
 </entry>
 
 </feed>
