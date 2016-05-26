@@ -20,17 +20,38 @@ a:hover {color:#E38089; cursor:pointer;}
 
 
 /* HEADER */
-#head {margin:30px 0px 30px; font-size:20px;}
+#head {margin:30px 0px; font-size:20px;}
 #head a {color:#635C5C;}
 #bann {float:left;}
 #nav {text-align:right;}
 #nav a {margin-left:15px;}
 
 
+/* PROJECTS */
+#prjs {margin-bottom:10px; display:none;}
+.a, .ia {position:relative; width:350px; margin:0px 15px 10px 0px; float:left;}
+	#prjs > :nth-child(2n+2) {margin-right:0px;}
+	.a .p-ttl {border-bottom:1px solid #0080FF;}
+	.ia .p-ttl {border-bottom:1px dotted #A6A6A6;}
+#prjs img {margin-right:3px; height:60px;	width:60px;	float:left; transition:0.2s all ease;}
+	#prjs img:hover {opacity:.7;}
+.p-deets {float:left;}
+.p-ttl {width:287px; margin-bottom:2px;font-size:15px;}
+.p-tl {font-size:11px;}
+.p-auth  {font-size:11px;}
+
+
 /* LOG */
 #log {margin-bottom:20px; border-top:1px dashed #7A7171; clear:left;}
 .entry {padding:3px 0px; border-bottom:1px dashed #7A7171; overflow:auto;}
-.entry>a {position:relative; top:-20px;}
+.entry:target {
+	padding:15px 0px;
+	border-top:3px double #7A7171;
+	border-bottom:3px double #7A7171;
+	position:relative;
+	top:-1px;
+	}
+.entry:target > .post {margin:8px 0px 0px;}
 .date {font-family:'Courier New', monospace; font-size: 12px; color:#7C7373;}
 img.egg {vertical-align:bottom; margin: 0px 8px;}
 .ttl {color:#8DB041;}
@@ -47,7 +68,7 @@ img.egg {vertical-align:bottom; margin: 0px 8px;}
 	color:#FFF;
 	}
 .src a:hover {background:#E38089;}
-.post {margin:10px auto;}
+.post {margin:10px 0px;}
 	
 	
 /* FOOTER */
