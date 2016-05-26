@@ -8,17 +8,24 @@
 <author><name>chickenscratch</name></author>
 <icon>/fav.ico</icon>
 
-<updated>2016-05-22T00:25:00Z</updated>
+<updated>2016-05-26T04:25:00Z</updated>
 
 <entry>
-	<updated>2016-05-20T12:30:00Z</updated>
+	<updated>2016-05-26T04:25:00Z</updated>
+	<id>http://chickenscrat.ch/</id>
+	<link href="http://chickenscrat.ch/"/>
+	<title>Test sdfygiuhnlk</title>
+	<content> </content>
+</entry>
+<entry>
+	<updated>2016-05-23T12:30:00Z</updated>
 	<id>http://chickenscrat.ch/#3</id>
 	<link href="http://chickenscrat.ch/#3"/>
 	<title>Tokyo Ghoul extra: April Fools 2016</title>
 	<content> </content>
 </entry>
 <entry>
-	<updated>2016-05-20T12:25:00Z</updated>
+	<updated>2016-05-23T12:25:00Z</updated>
 	<id>http://chickenscrat.ch/#2</id>
 	<link href="http://chickenscrat.ch/#2"/>
 	<title>Tokyo Ghoul extra: A Gift from His Boss</title>
